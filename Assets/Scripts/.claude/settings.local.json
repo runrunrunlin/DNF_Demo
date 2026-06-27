@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "PowerShell(python \"C:\\\\Users\\\\Run\\\\Documents\\\\GitHub\\\\DNF_Demo\\\\Assets\\\\Scripts\\\\recolor_death_hurt.py\")",
+      "PowerShell(python \"C:\\\\Users\\\\Run\\\\Documents\\\\GitHub\\\\DNF_Demo\\\\Assets\\\\Scripts\\\\remove_white_edge.py\")",
+      "PowerShell(python \"C:\\\\Users\\\\Run\\\\Documents\\\\GitHub\\\\DNF_Demo\\\\Assets\\\\Scripts\\\\_debug_pixels.py\")",
+      "Bash(git -C \"C:\\\\Users\\\\Run\\\\Documents\\\\GitHub\\\\DNF_Demo\" rev-parse --show-toplevel)",
+      "Bash(git -C \"C:\\\\Users\\\\Run\\\\Documents\\\\GitHub\" rev-parse --show-toplevel)"
+    ]
+  }
+}

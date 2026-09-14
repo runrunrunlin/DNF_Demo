@@ -8,6 +8,8 @@ A 2D side-scrolling fighting game demo inspired by DNF (Dungeon Fighter Online),
 
 <img width="616" height="353" alt="image" src="https://github.com/user-attachments/assets/576820bc-0922-4a44-bf16-514c446d5813" />
 
+## demo 链接 | demo link
+https://b23.tv/7kxSxF5
 
 ## 游戏说明 | Description
 
